@@ -1,0 +1,43 @@
+.experiencia {
+    font-size: 52px;
+    color: green !important;
+    font-family: "Oswald";
+  }
+
+  #Trabajos {
+    background-color: #28A745;
+  }
+  
+  #Trabajos h1 {
+    font-size: 52px;
+  }
+  
+  #Trabajos div hr {
+    width: 110px;
+    height: 1pt;
+  }
+  
+  #Trabajos h4 {
+    font-family: "Oswald";
+  }
+
+#Footer{
+    background-color: #28A745;
+}
+  #Footer h1 {
+    font-family: "Oswald";
+  }
+  
+  @media (max-width: 576px) {
+    #Hero-Section h1:first-child,
+    #Hero-Section h1:last-child {
+      font-size: 40px;
+    }
+  
+    #Experiencia div h1,
+    #Trabajos h1,
+    #Contacto h1 {
+      font-size: 35px;
+    }
+  }
+  
