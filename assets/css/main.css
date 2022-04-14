@@ -27,17 +27,3 @@
   #Footer h1 {
     font-family: "Oswald";
   }
-  
-  @media (max-width: 576px) {
-    #Hero-Section h1:first-child,
-    #Hero-Section h1:last-child {
-      font-size: 40px;
-    }
-  
-    #Experiencia div h1,
-    #Trabajos h1,
-    #Contacto h1 {
-      font-size: 35px;
-    }
-  }
-  
